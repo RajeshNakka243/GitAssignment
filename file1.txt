@@ -1,1 +1,2 @@
 file changed in feature1 branch
+added in feature2
